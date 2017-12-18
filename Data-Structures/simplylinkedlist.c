@@ -1,4 +1,4 @@
-//working :)
+//status: DONE :)
 
 #include<stdio.h>
 #include<stdlib.h>
