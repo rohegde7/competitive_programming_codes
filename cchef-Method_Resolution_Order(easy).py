@@ -2,7 +2,7 @@
 
 # https://www.codechef.com/problems/MRO
 # Problem Code: MRO
-# status: coding
+# status: Accepted, ET 0.05 secs
 
 tests = int(input())
 
