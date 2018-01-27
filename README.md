@@ -1,4 +1,4 @@
-# Competitive-Programming-codes
+# Repository details
 
 Contains all my solved programs
 
