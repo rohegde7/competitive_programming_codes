@@ -30,4 +30,3 @@ for i in range(number_tickets-1):
             counter += 1
 
 print(counter)
-
